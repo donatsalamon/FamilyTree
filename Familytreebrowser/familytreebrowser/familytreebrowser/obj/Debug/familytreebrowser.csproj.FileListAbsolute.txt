@@ -1,0 +1,11 @@
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\bin\Debug\familytreebrowser.exe.config
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\bin\Debug\familytreebrowser.exe
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\bin\Debug\familytreebrowser.pdb
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\obj\Debug\familytreebrowser.csproj.AssemblyReference.cache
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\obj\Debug\familytreebrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\obj\Debug\familytreebrowser.csproj.CoreCompileInputs.cache
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\obj\Debug\familytreebrowser.exe
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\obj\Debug\familytreebrowser.pdb
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tunde\Desktop\Familytreebrowser\familytreebrowser\familytreebrowser\obj\Debug\familytreebrowser.csproj.CopyComplete

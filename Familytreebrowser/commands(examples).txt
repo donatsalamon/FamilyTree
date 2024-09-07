@@ -1,0 +1,7 @@
+commands:
+
+-input familytrees.json
+-input familytrees.json -sort age
+-input familytrees.json -sort lastname
+-input familytrees.json -search lol
+-input familytrees.json -findduplicateinfamilytree firstname
